@@ -1,3 +1,8 @@
+# inspired by attackbot-cadet
+#
+# there is safety in numbers
+# Keep your friends close, but your enemies closer
+
 import rg
 
 class Robot:
